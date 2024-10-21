@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|c:\\users\\patil\\source\\repos\\ajaxcontrol 10b\\ajaxcontrol 10b\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|solutionrelative:ajaxcontrol 10b\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|c:\\users\\patil\\source\\repos\\ajaxcontrol 10b\\ajaxcontrol 10b\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|solutionrelative:ajaxcontrol 10b\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|c:\\users\\patil\\source\\repos\\ajaxcontrol 10b\\ajaxcontrol 10b\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|solutionrelative:ajaxcontrol 10b\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|solutionrelative:ajaxcontrol 10b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|c:\\users\\patil\\source\\repos\\ajaxcontrol 10b\\ajaxcontrol 10b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC181DF0-662B-4A42-92E6-763C24074275}|ajaxcontrol 10B\\ajaxcontrol 10B.csproj|solutionrelative:ajaxcontrol 10b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\packages\\AjaxControlToolkit.20.1.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\AjaxControlToolkit.20.1.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "ajaxcontrol 10B\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm2.aspx.cs",
+              "RelativeToolTip": "ajaxcontrol 10B\\WebForm2.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:57:05.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "ajaxcontrol 10B\\WebForm3.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm3.aspx",
+              "RelativeToolTip": "ajaxcontrol 10B\\WebForm3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T15:55:37.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "ajaxcontrol 10B\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm2.aspx",
+              "RelativeToolTip": "ajaxcontrol 10B\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T15:55:30.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\packages\\AjaxControlToolkit.20.1.0\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\AjaxControlToolkit.20.1.0\\readme.txt",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\packages\\AjaxControlToolkit.20.1.0\\readme.txt",
+              "RelativeToolTip": "packages\\AjaxControlToolkit.20.1.0\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-16T04:24:58.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "ajaxcontrol 10B\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm1.aspx.cs",
+              "RelativeToolTip": "ajaxcontrol 10B\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:37:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "ajaxcontrol 10B\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\ajaxcontrol 10B\\ajaxcontrol 10B\\WebForm1.aspx",
+              "RelativeToolTip": "ajaxcontrol 10B\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T15:33:07.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

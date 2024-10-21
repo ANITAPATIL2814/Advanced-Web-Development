@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|c:\\users\\patil\\source\\repos\\5a_navigation_controls\\5a_navigation_controls\\webform5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|solutionrelative:5a_navigation_controls\\webform5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|c:\\users\\patil\\source\\repos\\5a_navigation_controls\\5a_navigation_controls\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|solutionrelative:5a_navigation_controls\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|c:\\users\\patil\\source\\repos\\5a_navigation_controls\\5a_navigation_controls\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|solutionrelative:5a_navigation_controls\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|c:\\users\\patil\\source\\repos\\5a_navigation_controls\\5a_navigation_controls\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|solutionrelative:5a_navigation_controls\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|c:\\users\\patil\\source\\repos\\5a_navigation_controls\\5a_navigation_controls\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|solutionrelative:5a_navigation_controls\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|c:\\users\\patil\\source\\repos\\5a_navigation_controls\\5a_navigation_controls\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|solutionrelative:5a_navigation_controls\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|c:\\users\\patil\\source\\repos\\5a_navigation_controls\\5a_navigation_controls\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E0EBA7B8-76A6-489A-ACBC-E5792F9E61C9}|5A_Navigation_controls\\5A_Navigation_controls.csproj|solutionrelative:5a_navigation_controls\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "5A_Navigation_controls\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\StyleSheet1.css",
+              "RelativeToolTip": "5A_Navigation_controls\\StyleSheet1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-20T06:35:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "5A_Navigation_controls\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm1.aspx",
+              "RelativeToolTip": "5A_Navigation_controls\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:35:11.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "5A_Navigation_controls\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm2.aspx",
+              "RelativeToolTip": "5A_Navigation_controls\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:35:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "5A_Navigation_controls\\WebForm3.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm3.aspx",
+              "RelativeToolTip": "5A_Navigation_controls\\WebForm3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:35:19.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm4.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm4.aspx",
+              "RelativeDocumentMoniker": "5A_Navigation_controls\\WebForm4.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm4.aspx*",
+              "RelativeToolTip": "5A_Navigation_controls\\WebForm4.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:35:22.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm5.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm5.aspx",
+              "RelativeDocumentMoniker": "5A_Navigation_controls\\WebForm5.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\WebForm5.aspx",
+              "RelativeToolTip": "5A_Navigation_controls\\WebForm5.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:35:26.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\Site1.Master",
+              "RelativeDocumentMoniker": "5A_Navigation_controls\\Site1.Master",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\5A_Navigation_controls\\5A_Navigation_controls\\Site1.Master",
+              "RelativeToolTip": "5A_Navigation_controls\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:35:02.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

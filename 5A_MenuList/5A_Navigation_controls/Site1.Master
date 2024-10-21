@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="_5A_Navigation_controls.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Table ID="Table1" runat="server" Height="516px" GridLines="Both" Width="1124px">
+                <asp:TableRow>
+                    <asp:TableCell ColumnSpan="2">TYIT Master Page</asp:TableCell>
+                </asp:TableRow> 
+                <asp:TableRow>
+                    <asp:TableCell>
+                        <asp:Menu ID="Menu1" runat="server">
+                            <Items>
+                                <asp:MenuItem Text="SEM V">
+                                    <asp:MenuItem Text="AWD" NavigateUrl="~/WebForm1.aspx"/>
+                                    <asp:MenuItem Text="ET" NavigateUrl="~/WebForm2.aspx"/>
+                                    <asp:MenuItem Text="AI" NavigateUrl="~/WebForm3.aspx"/>
+                                </asp:MenuItem>
+                              
+                                <asp:MenuItem Text="SEM VI">
+                                    <asp:MenuItem Text="SPD" NavigateUrl="~/WebForm4.aspx"/>
+                                    <asp:MenuItem Text="BI" NavigateUrl="~/WebForm5.aspx"/>
+                                </asp:MenuItem>
+                            </Items>
+                        </asp:Menu>
+                    </asp:TableCell>
+                    <asp:TableCell>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </asp:TableCell>
+                        
+                </asp:TableRow>
+
+                <asp:TableRow>
+                    <asp:TableCell ColumnSpan="2">copyright @2024</asp:TableCell>
+                </asp:TableRow>
+            </asp:Table>
+
+        </div>
+    </form>
+</body>
+</html>

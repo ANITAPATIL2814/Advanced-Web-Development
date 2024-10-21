@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode  title="SEM V"  >
+		<siteMapNode url="~/WebForm1.aspx" title="AWP"  description="" />
+		<siteMapNode url="~/WebForm2.aspx" title=" SPD "  description="" />
+		<siteMapNode url="~/WebForm3.aspx" title="ET"  description="" />
+		<siteMapNode url="~/WebForm4.aspx" title="AI "  description="" />
+	</siteMapNode>
+
+
+</siteMap>

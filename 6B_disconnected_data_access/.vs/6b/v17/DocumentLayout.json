@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patil\\source\\repos\\6b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6818B50-CFAD-464C-A9A8-3821954D20BA}|6b\\6b.csproj|c:\\users\\patil\\source\\repos\\6b\\6b\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6818B50-CFAD-464C-A9A8-3821954D20BA}|6b\\6b.csproj|solutionrelative:6b\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\6b\\6b\\Web.config",
+              "RelativeDocumentMoniker": "6b\\Web.config",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\6b\\6b\\Web.config",
+              "RelativeToolTip": "6b\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-20T07:05:19.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="_3C_Treeview.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+                       <asp:Table ID="Table1" runat="server">
+           <asp:TableRow>
+               <asp:TableCell>
+          <asp:SiteMapPath ID="SiteMapPath1" runat="server" 
+           PathSeparator="  #"></asp:SiteMapPath>
+                       <asp:TreeView ID="TreeView1" runat="server">
+                         <Nodes>
+                         <asp:TreeNode Text="sem V">
+                             <asp:TreeNode Text="AWD"       NavigateUrl="~/WebForm1.aspx"></asp:TreeNode>
+                             <asp:TreeNode Text="SPD" NavigateUrl="~/WebForm2.aspx"></asp:TreeNode>
+                             <asp:TreeNode Text="ET" NavigateUrl="~/WebForm3.aspx"></asp:TreeNode>
+                             <asp:TreeNode Text="AI" NavigateUrl="~/WebForm4.aspx"></asp:TreeNode>
+                         </asp:TreeNode>
+                         </Nodes>
+                       </asp:TreeView>
+               </asp:TableCell>
+               <asp:TableCell>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+               </asp:TableCell>
+
+           </asp:TableRow>
+         </asp:Table>
+
+        </div>
+    </form>
+</body>
+</html>

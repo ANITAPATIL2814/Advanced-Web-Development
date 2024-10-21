@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|c:\\users\\patil\\source\\repos\\4c_user_controls\\4c_user_controls\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|solutionrelative:4c_user_controls\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|c:\\users\\patil\\source\\repos\\4c_user_controls\\4c_user_controls\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|solutionrelative:4c_user_controls\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|c:\\users\\patil\\source\\repos\\4c_user_controls\\4c_user_controls\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|solutionrelative:4c_user_controls\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|c:\\users\\patil\\source\\repos\\4c_user_controls\\4c_user_controls\\webusercontrol1.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|solutionrelative:4c_user_controls\\webusercontrol1.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|c:\\users\\patil\\source\\repos\\4c_user_controls\\4c_user_controls\\webusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{69F2DE4B-835B-4741-961D-A1059C12A8DA}|4C_User_Controls\\4C_User_Controls.csproj|solutionrelative:4c_user_controls\\webusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebUserControl1.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebUserControl1.ascx.cs",
+              "RelativeDocumentMoniker": "4C_User_Controls\\WebUserControl1.ascx.cs",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebUserControl1.ascx.cs",
+              "RelativeToolTip": "4C_User_Controls\\WebUserControl1.ascx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:32:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "4C_User_Controls\\WebForm3.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebForm3.aspx",
+              "RelativeToolTip": "4C_User_Controls\\WebForm3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:32:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "4C_User_Controls\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebForm2.aspx",
+              "RelativeToolTip": "4C_User_Controls\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:32:02.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "4C_User_Controls\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebForm1.aspx",
+              "RelativeToolTip": "4C_User_Controls\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:31:56.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebUserControl1.ascx",
+              "DocumentMoniker": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebUserControl1.ascx",
+              "RelativeDocumentMoniker": "4C_User_Controls\\WebUserControl1.ascx",
+              "ToolTip": "C:\\Users\\Patil\\source\\repos\\4C_User_Controls\\4C_User_Controls\\WebUserControl1.ascx",
+              "RelativeToolTip": "4C_User_Controls\\WebUserControl1.ascx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-20T06:32:21.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
